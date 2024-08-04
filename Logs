@@ -1,0 +1,516 @@
+2024-08-04 17:01:38 - INFO    :: CP Server Thread-10 : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 22:47:43 - INFO    :: ThreadPoolExecutor-2_0 : Retrieving latest version information from GitHub
+2024-08-04 22:47:43 - DEBUG   :: ThreadPoolExecutor-2_0 : Requesting URL via GET method: https://api.github.com/repos/Tautulli/Tautulli/commits/master
+2024-08-04 22:47:43 - INFO    :: ThreadPoolExecutor-2_2 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:47:43 - DEBUG   :: ThreadPoolExecutor-2_2 : Tautulli Config :: Successfully backed up C:\Users\huzfl\AppData\Local\Tautulli\config.ini to config.backup-20240804224743.sched.ini
+2024-08-04 22:47:43 - DEBUG   :: ThreadPoolExecutor-2_1 : Tautulli Database :: Successfully backed up C:\Users\huzfl\AppData\Local\Tautulli\tautulli.db to tautulli.backup-20240804224743.sched.db
+2024-08-04 22:47:43 - DEBUG   :: ThreadPoolExecutor-2_0 : Latest version is 7d00383d1ca10d4af058e4308951ab80d537b757
+2024-08-04 22:47:43 - INFO    :: ThreadPoolExecutor-2_0 : Tautulli is up to date
+2024-08-04 22:48:39 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 resumed.
+2024-08-04 22:48:44 - DEBUG   :: Thread-77 (run) : Tautulli ActivityHandler :: Session 7 paused.
+2024-08-04 22:48:48 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 resumed.
+2024-08-04 22:49:02 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 paused.
+2024-08-04 22:52:45 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 resumed.
+2024-08-04 22:52:48 - DEBUG   :: Thread-50 (run) : Tautulli ActivityHandler :: Session 7 paused.
+2024-08-04 22:52:49 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 resumed.
+2024-08-04 22:52:58 - DEBUG   :: Thread-50 (run) : Tautulli ActivityHandler :: Session 7 paused.
+2024-08-04 22:52:59 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Session 7 stopped.
+2024-08-04 22:52:59 - DEBUG   :: Thread-272 (run) : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 65740
+2024-08-04 22:52:59 - DEBUG   :: Thread-272 (run) : Tautulli ActivityProcessor :: Grouping history for sessionKey 7
+2024-08-04 22:52:59 - DEBUG   :: Thread-272 (run) : Tautulli ActivityHandler :: Removing sessionKey 7 ratingKey 65740 from session queue
+2024-08-04 22:54:27 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:54:27 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:56:01 - INFO    :: CP Server Thread-6 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:56:01 - INFO    :: CP Server Thread-6 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:56:01 - DEBUG   :: CP Server Thread-6 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:56:01 - INFO    :: CP Server Thread-6 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:56:01 - INFO    :: CP Server Thread-6 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:56:01 - DEBUG   :: CP Server Thread-6 : Testing websocket connection...
+2024-08-04 22:56:01 - DEBUG   :: CP Server Thread-6 : Websocket connection test successful.
+2024-08-04 22:56:52 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:56:52 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:56:52 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:56:52 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:56:52 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:56:52 - DEBUG   :: CP Server Thread-12 : Testing websocket connection...
+2024-08-04 22:56:52 - ERROR   :: CP Server Thread-12 : Websocket connection test failed: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-08-04 22:56:56 - INFO    :: CP Server Thread-13 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:56:56 - INFO    :: CP Server Thread-13 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:56:56 - DEBUG   :: CP Server Thread-13 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:56:56 - INFO    :: CP Server Thread-13 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:56:56 - INFO    :: CP Server Thread-13 : Tautulli PlexTV :: Server URL retrieved.
+2024-08-04 22:56:56 - DEBUG   :: CP Server Thread-13 : Testing secure websocket connection...
+2024-08-04 22:57:07 - ERROR   :: CP Server Thread-13 : Websocket connection test failed: [Errno 11001] getaddrinfo failed
+2024-08-04 22:57:21 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:57:21 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:57:22 - DEBUG   :: CP Server Thread-5 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:57:22 - INFO    :: CP Server Thread-5 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:57:22 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Server URL retrieved.
+2024-08-04 22:57:22 - DEBUG   :: CP Server Thread-5 : Testing secure websocket connection...
+2024-08-04 22:57:33 - ERROR   :: CP Server Thread-5 : Websocket connection test failed: [Errno 11001] getaddrinfo failed
+2024-08-04 22:57:35 - INFO    :: CP Server Thread-7 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:57:35 - INFO    :: CP Server Thread-7 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:57:35 - DEBUG   :: CP Server Thread-7 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:57:35 - INFO    :: CP Server Thread-7 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:57:35 - INFO    :: CP Server Thread-7 : Tautulli PlexTV :: Server URL retrieved.
+2024-08-04 22:57:35 - DEBUG   :: CP Server Thread-7 : Testing secure websocket connection...
+2024-08-04 22:57:38 - INFO    :: CP Server Thread-14 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:57:38 - INFO    :: CP Server Thread-14 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:57:39 - DEBUG   :: CP Server Thread-14 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:57:39 - INFO    :: CP Server Thread-14 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:57:39 - INFO    :: CP Server Thread-14 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:57:39 - DEBUG   :: CP Server Thread-14 : Testing websocket connection...
+2024-08-04 22:57:39 - DEBUG   :: CP Server Thread-14 : Websocket connection test successful.
+2024-08-04 22:57:40 - INFO    :: CP Server Thread-10 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:57:40 - INFO    :: CP Server Thread-10 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:57:40 - DEBUG   :: CP Server Thread-10 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:57:40 - INFO    :: CP Server Thread-10 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:57:40 - INFO    :: CP Server Thread-10 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:57:40 - DEBUG   :: CP Server Thread-10 : Testing websocket connection...
+2024-08-04 22:57:40 - DEBUG   :: CP Server Thread-10 : Websocket connection test successful.
+2024-08-04 22:57:46 - ERROR   :: CP Server Thread-7 : Websocket connection test failed: [Errno 11001] getaddrinfo failed
+2024-08-04 22:57:56 - INFO    :: CP Server Thread-9 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:57:56 - INFO    :: CP Server Thread-9 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:57:57 - DEBUG   :: CP Server Thread-9 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:57:57 - INFO    :: CP Server Thread-9 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:57:57 - INFO    :: CP Server Thread-9 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:57:57 - DEBUG   :: CP Server Thread-9 : Testing websocket connection...
+2024-08-04 22:57:57 - DEBUG   :: CP Server Thread-9 : Websocket connection test successful.
+2024-08-04 22:58:16 - INFO    :: CP Server Thread-11 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:18 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:18 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:58:18 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:58:19 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli WebSocket :: Disconnecting websocket...
+2024-08-04 22:58:19 - WARNING :: Thread-50 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:58:19 - WARNING :: Thread-272 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:58:19 - INFO    :: CP Server Thread-12 : Tautulli WebSocket :: Reconnecting websocket...
+2024-08-04 22:58:19 - WARNING :: Thread-77 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:58:19 - WARNING :: Thread-50 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:58:19 - WARNING :: Thread-272 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:58:19 - WARNING :: Thread-77 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:58:19 - INFO    :: Thread-50 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:58:19 - INFO    :: Thread-272 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:58:19 - INFO    :: Thread-77 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:58:19 - DEBUG   :: CP Server Thread-12 : Tautulli Monitor :: Checking for active streams.
+2024-08-04 22:58:19 - INFO    :: Thread-386 (run) : Tautulli WebSocket :: Opening websocket.
+2024-08-04 22:58:19 - INFO    :: Thread-387 (refresh_libraries) : Tautulli Libraries :: Requesting libraries list refresh...
+2024-08-04 22:58:19 - INFO    :: Thread-388 (refresh_users) : Tautulli Users :: Requesting users list refresh...
+2024-08-04 22:58:19 - INFO    :: Thread-386 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:58:19 - INFO    :: Thread-387 (refresh_libraries) : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:19 - INFO    :: Thread-387 (refresh_libraries) : Tautulli Libraries :: Libraries list refreshed.
+2024-08-04 22:58:20 - DEBUG   :: CP Server Thread-7 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:58:20 - INFO    :: CP Server Thread-7 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:58:20 - INFO    :: Thread-388 (refresh_users) : Tautulli Users :: Users list refreshed.
+2024-08-04 22:59:05 - INFO    :: CP Server Thread-13 : Tautulli Database :: Clearing recently added items from database.
+2024-08-04 22:59:05 - DEBUG   :: CP Server Thread-13 : Tautulli Database :: Clearing database table 'recently_added'.
+2024-08-04 22:59:05 - INFO    :: CP Server Thread-13 : Tautulli Database :: Vacuuming database.
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 22:59:11 - DEBUG   :: CP Server Thread-5 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli WebSocket :: Disconnecting websocket...
+2024-08-04 22:59:11 - ERROR   :: Thread-272 (run) : Tautulli WebSocket :: [WinError 10038] An operation was attempted on something that is not a socket.
+2024-08-04 22:59:11 - WARNING :: Thread-50 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:59:11 - WARNING :: Thread-77 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:59:11 - WARNING :: Thread-386 (run) : Tautulli WebSocket :: Connection has closed.
+2024-08-04 22:59:11 - INFO    :: CP Server Thread-5 : Tautulli WebSocket :: Reconnecting websocket...
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Tautulli WebSocket :: Disconnecting websocket...
+2024-08-04 22:59:11 - WARNING :: Thread-50 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:59:11 - WARNING :: Thread-77 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:59:11 - WARNING :: Thread-386 (run) : Tautulli WebSocket :: Reconnection attempt 1.
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Tautulli WebSocket :: Unable to get a response from the server, Plex server is down.
+2024-08-04 22:59:11 - DEBUG   :: Thread-272 (run) : Tautulli WebSocket :: Scheduling Plex server down callback in 60 seconds.
+2024-08-04 22:59:11 - DEBUG   :: CP Server Thread-5 : Tautulli Monitor :: Checking for active streams.
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Tautulli WebSocket :: Opening websocket.
+2024-08-04 22:59:11 - INFO    :: Thread-390 (refresh_libraries) : Tautulli Libraries :: Requesting libraries list refresh...
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Removed background task: Refresh Plex server URLs
+2024-08-04 22:59:11 - INFO    :: Thread-391 (refresh_users) : Tautulli Users :: Requesting users list refresh...
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Removed background task: Refresh users list
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Removed background task: Refresh libraries list
+2024-08-04 22:59:11 - INFO    :: Thread-272 (run) : Scheduled background task: Check for server response
+2024-08-04 22:59:11 - DEBUG   :: Thread-272 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 22:59:11 - INFO    :: Thread-386 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Tautulli WebSocket :: The Plex Media Server is back up.
+2024-08-04 22:59:11 - INFO    :: Thread-50 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:59:11 - DEBUG   :: Thread-389 (run) : Tautulli WebSocket :: Cancelling scheduled Plex server down callback.
+2024-08-04 22:59:11 - INFO    :: Thread-77 (run) : Tautulli WebSocket :: Ready
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Scheduled background task: Refresh Plex server URLs
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Scheduled background task: Refresh users list
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Scheduled background task: Refresh libraries list
+2024-08-04 22:59:11 - INFO    :: Thread-389 (run) : Removed background task: Check for server response
+2024-08-04 22:59:11 - INFO    :: Thread-390 (refresh_libraries) : Tautulli Config :: Writing configuration to file
+2024-08-04 22:59:11 - INFO    :: Thread-390 (refresh_libraries) : Tautulli Libraries :: Libraries list refreshed.
+2024-08-04 22:59:12 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 22:59:12 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 22:59:12 - INFO    :: Thread-391 (refresh_users) : Tautulli Users :: Users list refreshed.
+2024-08-04 22:59:34 - INFO    :: CP Server Thread-13 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 22:59:34 - DEBUG   :: CP Server Thread-5 : Sending test Script notification.
+2024-08-04 22:59:34 - DEBUG   :: CP Server Thread-5 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 22:59:34 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 22:59:34 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: [], action: test
+2024-08-04 22:59:34 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py']
+2024-08-04 22:59:34 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 22:59:34 - DEBUG   :: Thread-392 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 9009.
+2024-08-04 22:59:34 - ERROR   :: Thread-392 (run_script) : Tautulli Notifiers :: Script error: 
+  Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-08-04 22:59:34 - INFO    :: Thread-392 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 22:59:37 - INFO    :: CP Server Thread-9 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:08:35 - INFO    :: CP Server Thread-14 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:08:35 - DEBUG   :: CP Server Thread-12 : Sending test Script notification.
+2024-08-04 23:08:35 - DEBUG   :: CP Server Thread-12 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:08:35 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:08:35 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:08:35 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:08:35 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:08:35 - ERROR   :: Thread-395 (run_script) : Tautulli Notifiers :: Failed to run script: [WinError 2] The system cannot find the file specified
+2024-08-04 23:12:10 - INFO    :: CP Server Thread-7 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:12:28 - WARNING :: CP Server Thread-13 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:12:42 - WARNING :: CP Server Thread-7 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:24:27 - DEBUG   :: CP Server Thread-7 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:24:27 - INFO    :: CP Server Thread-7 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:24:41 - INFO    :: CP Server Thread-11 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:24:41 - DEBUG   :: CP Server Thread-10 : Sending test Script notification.
+2024-08-04 23:24:41 - DEBUG   :: CP Server Thread-10 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:24:41 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:24:41 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:24:41 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:24:41 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:24:41 - ERROR   :: Thread-396 (run_script) : Tautulli Notifiers :: Failed to run script: [WinError 2] The system cannot find the file specified
+2024-08-04 23:26:12 - INFO    :: CP Server Thread-6 : Retrieving latest version information from GitHub
+2024-08-04 23:26:12 - DEBUG   :: CP Server Thread-6 : Requesting URL via GET method: https://api.github.com/repos/Tautulli/Tautulli/commits/master
+2024-08-04 23:26:12 - DEBUG   :: CP Server Thread-6 : Latest version is 7d00383d1ca10d4af058e4308951ab80d537b757
+2024-08-04 23:26:12 - INFO    :: CP Server Thread-6 : Tautulli is up to date
+2024-08-04 23:26:16 - INFO    :: MainThread : Received signal: restart
+2024-08-04 23:26:16 - INFO    :: MainThread : Tautulli WebStart :: Stopping Tautulli web server...
+2024-08-04 23:26:16 - INFO    :: MainThread : [04/Aug/2024:23:26:16] ENGINE Bus STOPPING
+2024-08-04 23:26:16 - INFO    :: MainThread : [04/Aug/2024:23:26:16] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8181)) shut down
+2024-08-04 23:26:16 - INFO    :: MainThread : [04/Aug/2024:23:26:16] ENGINE Bus STOPPED
+2024-08-04 23:26:16 - INFO    :: MainThread : [04/Aug/2024:23:26:16] ENGINE Bus EXITING
+2024-08-04 23:26:16 - INFO    :: MainThread : [04/Aug/2024:23:26:16] ENGINE Bus EXITED
+2024-08-04 23:26:16 - INFO    :: MainThread : Tautulli WebSocket :: Disconnecting websocket...
+2024-08-04 23:26:16 - DEBUG   :: Thread-389 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 23:26:16 - DEBUG   :: Thread-50 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 23:26:16 - DEBUG   :: Thread-386 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 23:26:16 - DEBUG   :: Thread-77 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 23:26:16 - INFO    :: MainThread : Tautulli Config :: Writing configuration to file
+2024-08-04 23:26:16 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Notification thread exiting...
+2024-08-04 23:26:16 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Notification thread exiting...
+2024-08-04 23:26:16 - INFO    :: MainThread : Tautulli is restarting...
+2024-08-04 23:26:16 - INFO    :: MainThread : Restarting Tautulli with ['C:\\Program Files\\Tautulli\\Tautulli.exe', '--nolaunch']
+2024-08-04 23:26:18 - INFO    :: MainThread : Starting Tautulli v2.14.3
+2024-08-04 23:26:18 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19045)
+2024-08-04 23:26:18 - INFO    :: MainThread : Europe/London (UTC+0100)
+2024-08-04 23:26:18 - INFO    :: MainThread : Language en_IE / Encoding cp1252
+2024-08-04 23:26:18 - INFO    :: MainThread : Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2024-08-04 23:26:18 - INFO    :: MainThread : SQLite 3.45.1
+2024-08-04 23:26:18 - INFO    :: MainThread : Program Dir: C:\Program Files\Tautulli
+2024-08-04 23:26:18 - INFO    :: MainThread : Config File: C:\Users\huzfl\AppData\Local\Tautulli\config.ini
+2024-08-04 23:26:18 - INFO    :: MainThread : Database File: C:\Users\huzfl\AppData\Local\Tautulli\tautulli.db
+2024-08-04 23:26:18 - INFO    :: MainThread : Checking if the database upgrades are required...
+2024-08-04 23:26:18 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2024-08-04 23:26:18 - DEBUG   :: MainThread : Using cached GitHub version data
+2024-08-04 23:26:18 - DEBUG   :: MainThread : Latest version is 7d00383d1ca10d4af058e4308951ab80d537b757
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli is up to date
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'Admin') and Plex admin.
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli WebStart :: Thread Pool Size: 10.
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2024-08-04 23:26:18 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:26:18 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli Monitor :: Checking for active streams.
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Tautulli WebSocket :: Opening websocket.
+2024-08-04 23:26:18 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Requesting users list refresh...
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Tautulli WebSocket :: Ready
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Check GitHub for updates
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Optimize Tautulli database
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Backup Tautulli database
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Backup Tautulli config
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh Plex server URLs
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh users list
+2024-08-04 23:26:18 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh libraries list
+2024-08-04 23:26:18 - INFO    :: MainThread : [04/Aug/2024:23:26:18] ENGINE Serving on http://0.0.0.0:8181
+2024-08-04 23:26:18 - INFO    :: MainThread : Launching Windows system tray icon.
+2024-08-04 23:26:18 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2024-08-04 23:26:18 - INFO    :: MainThread : Tautulli is ready!
+2024-08-04 23:26:19 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Users list refreshed.
+2024-08-04 23:26:19 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Requesting libraries list refresh...
+2024-08-04 23:26:19 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:26:19 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Libraries list refreshed.
+2024-08-04 23:27:32 - INFO    :: MainThread : Starting Tautulli v2.14.3
+2024-08-04 23:27:32 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19045)
+2024-08-04 23:27:32 - INFO    :: MainThread : Europe/London (UTC+0100)
+2024-08-04 23:27:32 - INFO    :: MainThread : Language en_IE / Encoding cp1252
+2024-08-04 23:27:32 - INFO    :: MainThread : Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2024-08-04 23:27:32 - INFO    :: MainThread : SQLite 3.45.1
+2024-08-04 23:27:32 - INFO    :: MainThread : Program Dir: C:\Program Files\Tautulli
+2024-08-04 23:27:32 - INFO    :: MainThread : Config File: C:\Users\huzfl\AppData\Local\Tautulli\config.ini
+2024-08-04 23:27:32 - INFO    :: MainThread : Database File: C:\Users\huzfl\AppData\Local\Tautulli\tautulli.db
+2024-08-04 23:27:32 - INFO    :: MainThread : Checking if the database upgrades are required...
+2024-08-04 23:27:32 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2024-08-04 23:27:32 - DEBUG   :: MainThread : Using cached GitHub version data
+2024-08-04 23:27:32 - DEBUG   :: MainThread : Latest version is 7d00383d1ca10d4af058e4308951ab80d537b757
+2024-08-04 23:27:32 - INFO    :: MainThread : Tautulli is up to date
+2024-08-04 23:27:32 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2024-08-04 23:27:32 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 23:27:32 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 23:27:33 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2024-08-04 23:27:33 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'Admin') and Plex admin.
+2024-08-04 23:27:33 - INFO    :: MainThread : Tautulli WebStart :: Thread Pool Size: 10.
+2024-08-04 23:27:33 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2024-08-04 23:27:33 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:27:33 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:27:33 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 23:27:33 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 23:27:33 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:27:33 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli Monitor :: Checking for active streams.
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Tautulli WebSocket :: Opening websocket.
+2024-08-04 23:27:33 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Requesting users list refresh...
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Tautulli WebSocket :: Ready
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Check GitHub for updates
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Optimize Tautulli database
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Backup Tautulli database
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Backup Tautulli config
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Refresh Plex server URLs
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Refresh users list
+2024-08-04 23:27:33 - INFO    :: Thread-15 (run) : Scheduled background task: Refresh libraries list
+2024-08-04 23:27:33 - INFO    :: MainThread : [04/Aug/2024:23:27:33] ENGINE Serving on http://0.0.0.0:8181
+2024-08-04 23:27:33 - INFO    :: MainThread : Launching Windows system tray icon.
+2024-08-04 23:27:33 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2024-08-04 23:27:33 - INFO    :: MainThread : Tautulli is ready!
+2024-08-04 23:27:34 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Users list refreshed.
+2024-08-04 23:27:34 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Requesting libraries list refresh...
+2024-08-04 23:27:34 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:27:34 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Libraries list refreshed.
+2024-08-04 23:27:51 - DEBUG   :: CP Server Thread-10 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:27:51 - INFO    :: CP Server Thread-10 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:28:09 - INFO    :: CP Server Thread-12 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:28:09 - DEBUG   :: CP Server Thread-14 : Sending test Script notification.
+2024-08-04 23:28:09 - DEBUG   :: CP Server Thread-14 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:28:09 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:28:09 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:28:09 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:28:09 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:28:10 - DEBUG   :: Thread-17 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:28:10 - ERROR   :: Thread-17 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{rating_key}'
+2024-08-04 23:28:10 - INFO    :: Thread-17 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:28:13 - INFO    :: CP Server Thread-7 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:28:43 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:28:43 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:28:52 - WARNING :: CP Server Thread-5 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:29:07 - INFO    :: CP Server Thread-9 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:29:07 - DEBUG   :: CP Server Thread-5 : Sending test Script notification.
+2024-08-04 23:29:07 - DEBUG   :: CP Server Thread-5 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:29:07 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:29:07 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{67470}', '--blur', '25'], action: test
+2024-08-04 23:29:07 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{67470}', '--blur', '25']
+2024-08-04 23:29:07 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:29:07 - DEBUG   :: Thread-20 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:29:07 - ERROR   :: Thread-20 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{67470}'
+2024-08-04 23:29:07 - INFO    :: Thread-20 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:29:59 - INFO    :: CP Server Thread-6 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:30:02 - INFO    :: CP Server Thread-10 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:32:15 - INFO    :: CP Server Thread-13 : Cleared the cache.
+2024-08-04 23:32:16 - INFO    :: CP Server Thread-8 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:32:17 - DEBUG   :: CP Server Thread-11 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:32:17 - INFO    :: CP Server Thread-11 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:34:05 - INFO    :: CP Server Thread-14 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:34:05 - DEBUG   :: CP Server Thread-6 : Sending test Script notification.
+2024-08-04 23:34:05 - DEBUG   :: CP Server Thread-6 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:34:05 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:34:05 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:34:05 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:34:05 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:34:06 - DEBUG   :: Thread-23 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:34:06 - ERROR   :: Thread-23 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{rating_key}'
+2024-08-04 23:34:06 - INFO    :: Thread-23 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:34:12 - INFO    :: CP Server Thread-11 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:34:12 - DEBUG   :: CP Server Thread-12 : Sending test Script notification.
+2024-08-04 23:34:12 - DEBUG   :: CP Server Thread-12 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:34:12 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:34:12 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:34:12 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:34:12 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:34:13 - DEBUG   :: Thread-26 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:34:13 - ERROR   :: Thread-26 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{rating_key}'
+2024-08-04 23:34:13 - INFO    :: Thread-26 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:34:16 - INFO    :: CP Server Thread-9 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67592 , parent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67593, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67594, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67595, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67596, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67597, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67598, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67599, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:07 - DEBUG   :: Thread-15 (run) : Tautulli TimelineHandler :: Library item '' (67600, grandparent 66018) added to recently added queue.
+2024-08-04 23:47:46 - DEBUG   :: CP Server Thread-5 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:47:46 - INFO    :: CP Server Thread-5 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:48:04 - INFO    :: CP Server Thread-14 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:48:04 - DEBUG   :: CP Server Thread-12 : Sending test Script notification.
+2024-08-04 23:48:04 - DEBUG   :: CP Server Thread-12 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:48:04 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:48:04 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:48:04 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:48:04 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:48:05 - DEBUG   :: Thread-29 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:48:05 - ERROR   :: Thread-29 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{rating_key}'
+2024-08-04 23:48:05 - INFO    :: Thread-29 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:48:36 - INFO    :: CP Server Thread-10 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:48:36 - DEBUG   :: CP Server Thread-11 : Sending test Script notification.
+2024-08-04 23:48:36 - DEBUG   :: CP Server Thread-11 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:48:36 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:48:36 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:48:36 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{rating_key}', '--blur', '25']
+2024-08-04 23:48:36 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:48:37 - DEBUG   :: Thread-32 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:48:37 - ERROR   :: Thread-32 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{rating_key}'
+2024-08-04 23:48:37 - INFO    :: Thread-32 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:48:44 - DEBUG   :: CP Server Thread-14 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:48:44 - INFO    :: CP Server Thread-14 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:48:50 - WARNING :: CP Server Thread-6 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:49:01 - INFO    :: CP Server Thread-12 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:49:01 - DEBUG   :: CP Server Thread-14 : Sending test Script notification.
+2024-08-04 23:49:01 - DEBUG   :: CP Server Thread-14 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:49:01 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:49:01 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--rating_key', '{67592}', '--blur', '25'], action: test
+2024-08-04 23:49:01 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--rating_key', '{67592}', '--blur', '25']
+2024-08-04 23:49:01 - DEBUG   :: Thread-2 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:49:02 - DEBUG   :: Thread-35 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:49:02 - ERROR   :: Thread-35 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: argument --rating_key: invalid int value: '{67592}'
+2024-08-04 23:49:02 - INFO    :: Thread-35 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:49:10 - INFO    :: CP Server Thread-5 : Tautulli Notifiers :: Updated notification agent: Script (notifier_id 1).
+2024-08-04 23:49:10 - DEBUG   :: CP Server Thread-10 : Sending test Script notification.
+2024-08-04 23:49:10 - DEBUG   :: CP Server Thread-10 : Tautulli NotificationHandler :: Notifiers enabled for notify_action 'test' (manual trigger).
+2024-08-04 23:49:10 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Preparing notification for notifier_id 1.
+2024-08-04 23:49:10 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Trying to run notify script: C:\Users\huzfl\AppData\Local\Tautulli\scripts\hide_episode_spoilers.py, arguments: ['--67592', '{rating_key}', '--blur', '25'], action: test
+2024-08-04 23:49:10 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Full script is: ['python', 'C:\\Users\\huzfl\\AppData\\Local\\Tautulli\\scripts\\hide_episode_spoilers.py', '--67592', '{rating_key}', '--blur', '25']
+2024-08-04 23:49:10 - DEBUG   :: Thread-3 (process_queue) : Tautulli Notifiers :: Executing script in a new thread.
+2024-08-04 23:49:11 - DEBUG   :: Thread-38 (run_script) : Tautulli Notifiers :: Subprocess returned with status code 2.
+2024-08-04 23:49:11 - ERROR   :: Thread-38 (run_script) : Tautulli Notifiers :: Script error: 
+  usage: hide_episode_spoilers.py [-h] --rating_key RATING_KEY [--image IMAGE]
+                                  [--blur BLUR]
+                                  [--summary_prefix [SUMMARY_PREFIX]] [--remove]
+                                  [--upload]
+  hide_episode_spoilers.py: error: the following arguments are required: --rating_key
+2024-08-04 23:49:11 - INFO    :: Thread-38 (run_script) : Tautulli Notifiers :: Script notification sent.
+2024-08-04 23:49:14 - WARNING :: CP Server Thread-13 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:49:38 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:49:38 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:40 - DEBUG   :: CP Server Thread-13 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:49:40 - INFO    :: CP Server Thread-13 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:44 - INFO    :: MainThread : Received signal: restart
+2024-08-04 23:49:44 - INFO    :: MainThread : Tautulli WebStart :: Stopping Tautulli web server...
+2024-08-04 23:49:44 - INFO    :: MainThread : [04/Aug/2024:23:49:44] ENGINE Bus STOPPING
+2024-08-04 23:49:44 - INFO    :: MainThread : [04/Aug/2024:23:49:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8181)) shut down
+2024-08-04 23:49:44 - INFO    :: MainThread : [04/Aug/2024:23:49:44] ENGINE Bus STOPPED
+2024-08-04 23:49:44 - INFO    :: MainThread : [04/Aug/2024:23:49:44] ENGINE Bus EXITING
+2024-08-04 23:49:44 - INFO    :: MainThread : [04/Aug/2024:23:49:44] ENGINE Bus EXITED
+2024-08-04 23:49:44 - INFO    :: MainThread : Tautulli WebSocket :: Disconnecting websocket...
+2024-08-04 23:49:44 - INFO    :: MainThread : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:44 - DEBUG   :: Thread-15 (run) : Tautulli WebSocket :: Leaving thread.
+2024-08-04 23:49:44 - INFO    :: Thread-2 (process_queue) : Tautulli NotificationHandler :: Notification thread exiting...
+2024-08-04 23:49:44 - INFO    :: Thread-3 (process_queue) : Tautulli NotificationHandler :: Notification thread exiting...
+2024-08-04 23:49:44 - INFO    :: MainThread : Tautulli is restarting...
+2024-08-04 23:49:44 - INFO    :: MainThread : Restarting Tautulli with ['C:\\Program Files\\Tautulli\\Tautulli.exe', '--nolaunch']
+2024-08-04 23:49:46 - INFO    :: MainThread : Starting Tautulli v2.14.3
+2024-08-04 23:49:46 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19045)
+2024-08-04 23:49:46 - INFO    :: MainThread : Europe/London (UTC+0100)
+2024-08-04 23:49:46 - INFO    :: MainThread : Language en_IE / Encoding cp1252
+2024-08-04 23:49:46 - INFO    :: MainThread : Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2024-08-04 23:49:46 - INFO    :: MainThread : SQLite 3.45.1
+2024-08-04 23:49:46 - INFO    :: MainThread : Program Dir: C:\Program Files\Tautulli
+2024-08-04 23:49:46 - INFO    :: MainThread : Config File: C:\Users\huzfl\AppData\Local\Tautulli\config.ini
+2024-08-04 23:49:46 - INFO    :: MainThread : Database File: C:\Users\huzfl\AppData\Local\Tautulli\tautulli.db
+2024-08-04 23:49:46 - INFO    :: MainThread : Checking if the database upgrades are required...
+2024-08-04 23:49:46 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2024-08-04 23:49:46 - INFO    :: MainThread : Retrieving latest version information from GitHub
+2024-08-04 23:49:46 - DEBUG   :: MainThread : Requesting URL via GET method: https://api.github.com/repos/Tautulli/Tautulli/commits/master
+2024-08-04 23:49:46 - DEBUG   :: MainThread : Latest version is 7d00383d1ca10d4af058e4308951ab80d537b757
+2024-08-04 23:49:46 - INFO    :: MainThread : Tautulli is up to date
+2024-08-04 23:49:46 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Requesting resources for server...
+2024-08-04 23:49:46 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Pinging Plex.tv to refresh token.
+2024-08-04 23:49:46 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2024-08-04 23:49:47 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2024-08-04 23:49:47 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'Admin') and Plex admin.
+2024-08-04 23:49:47 - INFO    :: MainThread : Tautulli WebStart :: Thread Pool Size: 10.
+2024-08-04 23:49:47 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2024-08-04 23:49:47 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:49:47 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:47 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Using user-defined URL.
+2024-08-04 23:49:47 - INFO    :: Thread-1 (startup_refresh) : Tautulli PlexTV :: Selected server: Plex (http://192.168.0.200:32400) (Windows - Version 1.40.4.8679-424562606)
+2024-08-04 23:49:47 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:47 - DEBUG   :: Thread-1 (startup_refresh) : Tautulli Monitor :: Checking for active streams.
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Tautulli WebSocket :: Opening websocket.
+2024-08-04 23:49:47 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Requesting users list refresh...
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Tautulli WebSocket :: Ready
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Check GitHub for updates
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Optimize Tautulli database
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Backup Tautulli database
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Backup Tautulli config
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh Plex server URLs
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh users list
+2024-08-04 23:49:47 - INFO    :: Thread-4 (run) : Scheduled background task: Refresh libraries list
+2024-08-04 23:49:47 - INFO    :: MainThread : [04/Aug/2024:23:49:47] ENGINE Serving on http://0.0.0.0:8181
+2024-08-04 23:49:47 - INFO    :: MainThread : Launching Windows system tray icon.
+2024-08-04 23:49:47 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2024-08-04 23:49:47 - INFO    :: MainThread : Tautulli is ready!
+2024-08-04 23:49:48 - INFO    :: Thread-1 (startup_refresh) : Tautulli Users :: Users list refreshed.
+2024-08-04 23:49:48 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Requesting libraries list refresh...
+2024-08-04 23:49:48 - INFO    :: Thread-1 (startup_refresh) : Tautulli Config :: Writing configuration to file
+2024-08-04 23:49:48 - INFO    :: Thread-1 (startup_refresh) : Tautulli Libraries :: Libraries list refreshed.
+2024-08-04 23:49:53 - WARNING :: CP Server Thread-9 : Unable to retrieve data for item_user_stats.
+2024-08-04 23:50:08 - DEBUG   :: CP Server Thread-13 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:50:08 - INFO    :: CP Server Thread-13 : Tautulli Config :: Writing configuration to file
+2024-08-04 23:50:09 - DEBUG   :: CP Server Thread-12 : Tautulli PlexTV :: Plex Pass subscription not found.
+2024-08-04 23:50:09 - INFO    :: CP Server Thread-12 : Tautulli Config :: Writing configuration to file
